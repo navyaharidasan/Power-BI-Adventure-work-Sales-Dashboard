@@ -99,7 +99,7 @@ Users can filter the analysis by:
 
 The map visualization provides a geographical perspective of sales activity across different regions.
 
-![Regional Analysis](images/regional-analysis.png)
+
 
 ---
 
